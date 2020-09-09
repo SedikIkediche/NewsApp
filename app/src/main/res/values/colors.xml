@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/background_color</color>
+    <color name="colorPrimaryDark">@color/background_color</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background_color">#000000</color>
+    <color name="list_item_background_color">#26ffffff</color>
+    <color name="section_background_color">#4Dffffff</color>
+</resources>

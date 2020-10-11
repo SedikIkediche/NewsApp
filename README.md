@@ -1,1 +1,1 @@
-#Simple News App
+# Simple News App
